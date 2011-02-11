@@ -1,0 +1,8 @@
+The two code that is shown here are classes that connects to my deployed REST web service that I deployed
+to map the lattitude and longitude of each user's into Google Map and ListView. The implementation of the web service 
+can be found at webservice.php
+
+This is a project that I have been working on during my free time for the past 2 months. It is still under development and
+there are still more features to be added to the final product. Some known issues that is been fixed are memory leaks and
+code optimization. Loading the data from the backend using the current approach is very heavy. Caching part of the data 
+on the iPhone would be the next reasonable step.
